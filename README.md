@@ -62,3 +62,5 @@ The dashboard was designed with two interactive pages:
 - DAX – Custom KPI calculations  
 
 ---
+
+<img width="1780" height="772" alt="Screenshot 2025-08-31 123318" src="https://github.com/user-attachments/assets/820fba82-da3c-44bd-bdd7-3992f0819734" />
